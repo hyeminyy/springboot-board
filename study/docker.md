@@ -11,3 +11,9 @@
 토커 컴포즈
   - 다중 컨테이너를 정의하고 실행하기 위한 도구
   - yaml 파일을 통해 다중 컨테이너를 구성할 수 있음.
+
+도커 설치
+ - <https://www.docker.com/products/docker-desktop/>
+ - 자신의 OS에 맞는 docker Desktop를 설치
+ - cmd에 명령어를 통해 설치가 됐는지 확인 `docker -v`
+
