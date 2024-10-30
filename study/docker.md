@@ -16,4 +16,3 @@
  - <https://www.docker.com/products/docker-desktop/>
  - 자신의 OS에 맞는 docker Desktop를 설치
  - cmd에 명령어를 통해 설치가 됐는지 확인 `docker -v`
-
